@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markusw17
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning something about github ...
 
 <!---
 markusw17/markusw17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
